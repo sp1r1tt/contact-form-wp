@@ -1,3 +1,4 @@
+![Описание изображения](screenshot.png)
 # Test Page — WordPress Шаблон
 
 ## Опис проекту
